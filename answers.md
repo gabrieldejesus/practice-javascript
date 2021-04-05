@@ -1,8 +1,6 @@
 # Answers
 
----
-
-## Exercises A
+## 🧱 Exercises A
 
 **A1:**
 

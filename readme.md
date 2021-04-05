@@ -1,4 +1,4 @@
-# Exercises and projects to practice the Javascript language
+# Exercises
 
 ## 🧱 Exercises A
 

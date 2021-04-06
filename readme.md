@@ -1,6 +1,6 @@
 # Exercises
 
-## 🧱 Exercises A
+## 🧱 Variables
 
 **A1:** Declare a variable named weight
 
@@ -38,3 +38,5 @@ let student = {};
 console.log(a);
 var a = 1;
 ```
+
+---

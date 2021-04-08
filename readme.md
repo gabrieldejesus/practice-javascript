@@ -7,6 +7,7 @@
 **A2:** What kind of data is the variable above?
 
 **A3:** Declare a variable and assign values to each of the data:
+
 - name: String;
 - age: Number (integer)
 - weight: Number (float)
@@ -40,3 +41,31 @@ var a = 1;
 ```
 
 ---
+
+## 📑 Array
+
+Subject proposed by @BrunoS3D
+
+**B:1:** Create an Array named `overTheTable` with the following values:
+
+```md
+- Keyboard
+- Mouse
+- Headset
+```
+
+**B:2:** Display the `Mouse` item by accessing the Array index created above
+
+**B:3:** Add an item that you have on your table at the end of the Array `overTheTable`
+
+**B:4** Remove the last item from the Array `overTheTable`
+
+**B:5:** Remove an item from the beginning of the `overTheTable` Array
+
+**B:6:** Add a new item that is on your table at the beginning of the Array: `overTheTable`
+
+**B:7:** Search for the index of the item `Mouse` in the Array `overTheTable`
+
+**B:8:** Removes the item `Mouse` from the Array `overTheTable` by its index position
+
+**B:9:** Create an Array called `shoppingList` and add the following values: `Rice`, `Beans`,` Macaroni` and `Cookie` immediately afterwards remove the values `Beans` and `Macaroni` by position index.

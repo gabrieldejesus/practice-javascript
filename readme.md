@@ -44,8 +44,6 @@ var a = 1;
 
 ## 📑 Array
 
-Subject proposed by @BrunoS3D
-
 **B1:** Create an Array named `overTheTable` with the following values:
 
 ```md

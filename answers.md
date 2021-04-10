@@ -93,8 +93,6 @@ console.log(a);
 
 ## 📑 Array
 
-Subject proposed by @BrunoS3D
-
 **B:1:**
 
 ```js

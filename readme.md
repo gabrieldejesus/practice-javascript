@@ -7,6 +7,7 @@
 **A2:** What kind of data is the variable above?
 
 **A3:** Declare a variable and assign values to each of the data:
+
 - name: String;
 - age: Number (integer)
 - weight: Number (float)
@@ -40,3 +41,35 @@ var a = 1;
 ```
 
 ---
+
+## 📑 Array
+
+Subject proposed by @BrunoS3D
+
+**B1:** Create an Array named `overTheTable` with the following values:
+
+```md
+- Keyboard
+- Mouse
+- Headset
+```
+
+**B2:** Display the `Mouse` item by accessing the Array index created above
+
+**B3:** Add an item that you have on your table at the end of the Array `overTheTable`
+
+**B4:** Remove the last item from the Array `overTheTable`
+
+**B5:** Remove an item from the beginning of the `overTheTable` Array
+
+**B6:** Add a new item that is on your table at the beginning of the Array: `overTheTable`
+
+**B7:** Search for the index of the item `Mouse` in the Array `overTheTable`
+
+**B8:** Removes the item `Mouse` from the Array `overTheTable` by its index position
+
+**B9:** Create an Array called `shoppingList` and add the following values: `Rice`, `Beans`,`Macaroni` and `Cookie` immediately afterwards remove the values `Beans` and `Macaroni` by position index.
+
+**B10:** Create an Array named `atHouseHave` with the values of: `Couch`, `TV`, `Stove`, `Fridge`. Now create a modified copy of the array using `.map ()` and adding a `- have` text at the end of each word but leaving the original intact.
+
+**B11:** Create an array with the numbers from `0` to` 10` then create a copy with only the numbers less than `4` of this array and display them in `console.log()`.
